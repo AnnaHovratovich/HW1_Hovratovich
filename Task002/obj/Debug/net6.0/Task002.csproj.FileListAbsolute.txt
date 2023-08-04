@@ -1,0 +1,15 @@
+E:\C#\HW1_Hovratovich\Task002\bin\Debug\net6.0\Task002.exe
+E:\C#\HW1_Hovratovich\Task002\bin\Debug\net6.0\Task002.deps.json
+E:\C#\HW1_Hovratovich\Task002\bin\Debug\net6.0\Task002.runtimeconfig.json
+E:\C#\HW1_Hovratovich\Task002\bin\Debug\net6.0\Task002.dll
+E:\C#\HW1_Hovratovich\Task002\bin\Debug\net6.0\Task002.pdb
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\Task002.csproj.AssemblyReference.cache
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\Task002.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\Task002.AssemblyInfoInputs.cache
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\Task002.AssemblyInfo.cs
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\Task002.csproj.CoreCompileInputs.cache
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\Task002.dll
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\refint\Task002.dll
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\Task002.pdb
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\Task002.genruntimeconfig.cache
+E:\C#\HW1_Hovratovich\Task002\obj\Debug\net6.0\ref\Task002.dll
